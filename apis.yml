@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://asli-fun-fact-api.herokuapp.com/
 common:
+  - type: DomainSecurity
+    url: security/fun-facts-domain-security.yml
   - type: Website
     url: https://asli-fun-fact-api.herokuapp.com/
   - type: PublicAPIsListing
