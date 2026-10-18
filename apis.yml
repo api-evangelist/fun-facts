@@ -40,7 +40,8 @@ apis:
   - name: Fun Facts
     description: "Random Fun Facts"
     humanURL: https://asli-fun-fact-api.herokuapp.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
